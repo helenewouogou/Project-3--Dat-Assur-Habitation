@@ -1,15 +1,19 @@
-# Project-3--Dat-Assur-Habitation
-Projet 3: Query a Database with SQL 
+# Project-3-Dat-Assur-Habitation
 
-Client :Dat’Assur Habitation
+Project 3: Querying a database with SQL   
 
-Context and Mission Challenges:
-•	Dat'Assur Home Insurance is a company specializing in home insurance. The management aims to stand out from the competition by leveraging data to analyze the portfolio of contracts and become "Data-Driven."
-•	The mission involves assessing the current contracts.
-•	The analysis objectives are to enable the management to: review insurance contract prices to differentiate from the competition, harmonize rates, ensure that customers pay based on certain criteria (profile, location, occupation, formula, type of contract, type of property, etc.), standardize its pricing policy to be more competitive by offering a transparent price to each customer.
+Client :Dat'Assur Habitation
 
-Methodology/Tools Used: SQL Results Achieved: The deliverables attached include concepts of dimensions, indicators, data aggregations, and aggregation functions used in queries to define the geographical distribution of members, determine the average subscription price by property type and occupation type, by formula, by contract, and by declared property value.
+Context and challenges of the assignment 
 
-Assessed Skills:
-•	Load data into a database
-•	Write simple SQL scripts to aid in business decision-making
+● Dat'Assur Habitation is a company specialising in home insurance. Management wanted to stand out from the competition by using data to analyse the portfolio of contracts and thus become "Data-Driven". 
+● The mission consists of taking stock of current contracts 
+● The objectives of the analyses are to enable management to: Review the prices of insurance contracts to stand out from the competition, harmonise rates, which customers pay according to certain criteria (profile, location, occupation, formula, type of contract, type of premises...) standardise its pricing policy enabling it to be more competitive by offering a legible price to each customer.
+
+Methodology/tools used: SQL
+
+Results obtained: In the attached deliverables, you will see the concepts of dimensions, indicators and data aggregation and aggregation functions used in the queries to define the geographical distribution of members, define the average subscription price per type of premises and per type of occupation, per formula, per contract and per value of goods declared.
+
+Skills acquired
+- Load data into a database
+- Write simple SQL scripts to help you make business decisions
