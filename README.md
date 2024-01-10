@@ -6,8 +6,10 @@ Client :Dat'Assur Habitation
 
 Context and challenges of the assignment 
 
-● Dat'Assur Habitation is a company specialising in home insurance. Management wanted to stand out from the competition by using data to analyse the portfolio of contracts and thus become "Data-Driven". 
+● Dat'Assur Habitation is a company specialising in home insurance. Management wanted to stand out from the competition by using data to analyse the portfolio of contracts and thus become "Data-Driven".
+
 ● The mission consists of taking stock of current contracts 
+
 ● The objectives of the analyses are to enable management to: Review the prices of insurance contracts to stand out from the competition, harmonise rates, which customers pay according to certain criteria (profile, location, occupation, formula, type of contract, type of premises...) standardise its pricing policy enabling it to be more competitive by offering a legible price to each customer.
 
 Methodology/tools used: SQL
